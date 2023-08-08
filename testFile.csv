@@ -1,0 +1,9 @@
+Account Mask,Posted Date,Description,Details,Amount,Balance,Reference Number,currency,type
+9823,2022-12-30,trn0,Salary,400,2400,4001,ILS,income
+9823,2023-01-01,trn1,Wire In,300,2500,4002,ILS,sale
+9823,2023-01-01,trn2,Wire,100,2600,4003,ILS,sale
+9823,2023-01-30,trn3,nike,-200,2400,4004,ILS,expense
+9823,2023-01-31,trn4,Uber pool**5464,-750,2100,4005,ILS,expense
+9823,2023-01-31,trn5,McDonald's,-200,1900,4006,ILS,expense
+9823,2023-02-01,trn6,Salary,6000,2600,4007,ILS,income
+9823,2023-02-01,trn7,Wire In,200,2800,4008,ILS,sale
