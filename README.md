@@ -6,10 +6,11 @@ This app allows the user to upload a CSV file to be kept in an SQLite DB as a JS
 
 ## Assumptions:
 
-1. The CSV file must be formatted according to:
+1. The CSV file must be formatted according to:<br />
    Account Mask,Posted Date,Description,Details,Amount,Balance,Reference Number,currency,type
 
 2. {Account Mask,Posted Date,Description} uniquely identify a transaction
+   <br />
 
 ## Installation
 
